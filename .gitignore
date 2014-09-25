@@ -1,0 +1,9 @@
+*.log
+.bundle
+.ruby-gemset
+.ruby-version
+.rvmrc
+doc/
+Gemfile.lock
+gemfiles/*.lock
+tmp/*
